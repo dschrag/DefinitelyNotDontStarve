@@ -20,6 +20,12 @@ Manage your insanity as you try to escape. Sanity is affected by a variety of fa
 
 ----
 
+# Requirements
+
+This was built using Unreal Engine 4.12. 
+
+----
+
 # Contributing
 
 All code here is meant to be as open as possible (given the constraints of Unreal Engine). Issues will be used to track progress as best as possible.
